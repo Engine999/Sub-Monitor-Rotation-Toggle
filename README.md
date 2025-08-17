@@ -4,10 +4,9 @@ A simple console utility for dual-monitor setups that toggles the secondary (non
 Author : 엔진 / Engine ([@Engine999](https://github.com/Engine999))
 Email : no8engine@gmail.com
 
+---
 
-
-
-#서브 모니터 회전 토글 (Windows 10 / C / WinAPI) — 듀얼 모니터 전용
+##서브 모니터 회전 토글 (Windows 10 / C / WinAPI) — 듀얼 모니터 전용
 
 
 
@@ -37,9 +36,9 @@ Email : no8engine@gmail.com
 OS: Windows 10
 Compiler: MinGW-w64 (gcc)
 
+---
 
-
-#Sub Monitor Rotation Toggle (Windows 10 / C / WinAPI) — Dual-Monitor Only
+##Sub Monitor Rotation Toggle (Windows 10 / C / WinAPI) — Dual-Monitor Only
 
 
 
