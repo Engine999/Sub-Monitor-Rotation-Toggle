@@ -3,11 +3,9 @@ A simple console utility for dual-monitor setups that toggles the secondary (non
 
 ⚠️ 경고 / Warning
 
-한국어
 이 프로그램은 모니터 회전 값을 강제로 변경합니다.
 CDS_UPDATEREGISTRY 사용 시 윈도우 디스플레이 설정이 정상 작동하지 않을 수 있음에 유의하세요.
 
-English
 This program forces monitor rotation.
 Using CDS_UPDATEREGISTRY may cause the Windows Display Settings to stop working properly.
 
